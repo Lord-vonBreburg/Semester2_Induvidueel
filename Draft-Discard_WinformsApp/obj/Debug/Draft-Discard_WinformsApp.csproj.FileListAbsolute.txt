@@ -1,0 +1,11 @@
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\bin\Debug\Draft-Discard_WinformsApp.exe.config
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\bin\Debug\Draft-Discard_WinformsApp.exe
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\bin\Debug\Draft-Discard_WinformsApp.pdb
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft-Discard_WinformsApp.csproj.AssemblyReference.cache
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft_Discard_WinformsApp.Properties.Resources.resources
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft-Discard_WinformsApp.csproj.GenerateResource.cache
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft-Discard_WinformsApp.csproj.CoreCompileInputs.cache
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft-Discard_WinformsApp.exe
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft-Discard_WinformsApp.pdb
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft_Discard_WinformsApp.nud_.resources
+D:\WinForms\Draft-Discard_WinformsApp\Draft-Discard_WinformsApp\obj\Debug\Draft_Discard_WinformsApp.Forms.CardDetails.resources
